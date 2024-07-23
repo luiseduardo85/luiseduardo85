@@ -1,6 +1,6 @@
 ## Hi there, I'm Eduardo 👋
 
--🌱 Estudando Desenvolvimento Back-end.
+-🌱 Estudando Desenvolvimento Full-stack.
 
 <div align="center">
   <a href="https://github.com/luiseduardo85">
