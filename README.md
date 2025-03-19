@@ -1,6 +1,7 @@
 ## Hi there, I'm Eduardo 👋
 
 -🌱 Estudando Desenvolvimento Full-stack.
+- Aprendendo Java.
 
 <div align="center">
   <a href="https://github.com/luiseduardo85">
